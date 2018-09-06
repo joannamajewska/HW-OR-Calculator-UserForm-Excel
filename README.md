@@ -5,4 +5,4 @@ Available files are:
 - Excel file with macro support - with a button to run the UserForm without having to use the Developer tab
 - exported UserForm, ready for import and editing
 
-***this project is not yet fully completed***
+*this project is not yet fully completed
